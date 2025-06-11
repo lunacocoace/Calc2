@@ -1,1 +1,1 @@
-# Calc2# Calculator hi I changed this
+Calculator. Includes Trig and Logarithmics.
